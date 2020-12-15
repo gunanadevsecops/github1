@@ -1,3 +1,3 @@
 Hello Ashok 
  welcome to github
-am happy
+am hapPpy to install GIT in UbantUy
